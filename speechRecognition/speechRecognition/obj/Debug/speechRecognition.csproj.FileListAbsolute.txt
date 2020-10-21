@@ -1,1 +1,0 @@
-D:\c_space\speechRecognition\speechRecognition\bin\Debug\speechRecognition.exe.config
