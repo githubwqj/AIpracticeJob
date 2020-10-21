@@ -83,7 +83,7 @@
             // comboBox1
             // 
             this.comboBox1.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.comboBox1.ForeColor = System.Drawing.Color.Wheat;
+            this.comboBox1.ForeColor = System.Drawing.Color.DarkOrange;
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
             "wav",

@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Baidu.Aip.Speech;
 using System.IO;
-using Newtonsoft.Json.Linq;
 using System.Windows.Input;
 using System.Runtime.InteropServices;
+using Newtonsoft.Json.Linq;
 
 
 
