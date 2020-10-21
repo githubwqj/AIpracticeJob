@@ -1,0 +1,18 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\calc1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\calc1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\calc1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\calc1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\calc1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\calc1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2013\Projects\calc1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2013\Projects\calc1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\calc1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\c_space\calc1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\c_space\calc1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\c_space\calc1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\c_space\calc1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\c_space\calc1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\c_space\calc1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\c_space\calc1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\c_space\calc1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\c_space\calc1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
