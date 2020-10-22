@@ -19,6 +19,7 @@ namespace voicerecognition
 {
     public partial class Form1 : Form
     {
+
         
         string APP_ID = "22850886";
         string API_KEY = "ELkjDrARSz6IeSWF8MIQOuti";
