@@ -26,3 +26,8 @@ D:\c_space\AIpracticeJob\voicerecognition\voicerecognition\obj\Debug\voicerecogn
 D:\c_space\AIpracticeJob\voicerecognition\voicerecognition\obj\Debug\voicerecognition.Form1.resources
 D:\c_space\AIpracticeJob\voicerecognition\voicerecognition\obj\Debug\voicerecognition.Properties.Resources.resources
 D:\c_space\AIpracticeJob\voicerecognition\voicerecognition\obj\Debug\voicerecognition.csproj.GenerateResource.Cache
+D:\c_space\AIpracticeJob\voicerecognition\voicerecognition\bin\Debug\voicerecognition.exe
+D:\c_space\AIpracticeJob\voicerecognition\voicerecognition\bin\Debug\voicerecognition.pdb
+D:\c_space\AIpracticeJob\voicerecognition\voicerecognition\bin\Debug\AipSdk.dll
+D:\c_space\AIpracticeJob\voicerecognition\voicerecognition\bin\Debug\Newtonsoft.Json.dll
+D:\c_space\AIpracticeJob\voicerecognition\voicerecognition\bin\Debug\AipSdk.pdb
