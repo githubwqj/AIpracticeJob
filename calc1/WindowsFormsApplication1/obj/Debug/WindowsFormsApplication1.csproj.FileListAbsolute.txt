@@ -16,3 +16,6 @@ D:\c_space\calc1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csp
 D:\c_space\calc1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 D:\c_space\calc1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 D:\c_space\calc1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\develop_disk\c_space\AIpracticeJob\calc1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\develop_disk\c_space\AIpracticeJob\calc1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\develop_disk\c_space\AIpracticeJob\calc1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

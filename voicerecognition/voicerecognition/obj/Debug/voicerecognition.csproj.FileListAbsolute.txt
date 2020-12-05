@@ -31,3 +31,6 @@ D:\c_space\AIpracticeJob\voicerecognition\voicerecognition\bin\Debug\voicerecogn
 D:\c_space\AIpracticeJob\voicerecognition\voicerecognition\bin\Debug\AipSdk.dll
 D:\c_space\AIpracticeJob\voicerecognition\voicerecognition\bin\Debug\Newtonsoft.Json.dll
 D:\c_space\AIpracticeJob\voicerecognition\voicerecognition\bin\Debug\AipSdk.pdb
+D:\develop_disk\c_space\AIpracticeJob\voicerecognition\voicerecognition\bin\Debug\voicerecognition.exe.config
+D:\develop_disk\c_space\AIpracticeJob\voicerecognition\voicerecognition\obj\Debug\voicerecognition.exe
+D:\develop_disk\c_space\AIpracticeJob\voicerecognition\voicerecognition\obj\Debug\voicerecognition.pdb
