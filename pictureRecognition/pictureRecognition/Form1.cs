@@ -34,12 +34,16 @@ namespace pictureRecognition
 
         private void button1_Click(object sender, EventArgs e)
         {
-            viewlabel();
+            
             OpenFileDialog file = new OpenFileDialog();
             file.InitialDirectory = ".";
             file.Filter = "所有文件(*.*)|*.*";
             file.ShowDialog();
             filepath1 = file.FileName;   //获得文件的绝对路径
+            if (filepath1 == null || filepath1 == "") {
+                return;
+            }
+            viewlabel();
             FileStream fs = new FileStream(filepath1, FileMode.Open, FileAccess.Read); //将图片以文件流的形式进行保存
             BinaryReader br = new BinaryReader(fs);
             byte[] imgBytesIn = br.ReadBytes((int)fs.Length); //将流读入到字节数组中 二进制数组
@@ -55,6 +59,11 @@ namespace pictureRecognition
 
         private void button2_Click(object sender, EventArgs e)
         {
+            if (filepath1 == null || filepath1 == "")
+            {
+
+                return;
+            }
             viewlabel();
             var image = File.ReadAllBytes(filepath1);
             var options = new Dictionary<string, object>{
@@ -84,6 +93,11 @@ namespace pictureRecognition
 
         private void button4_Click(object sender, EventArgs e)
         {
+            if (filepath1 == null || filepath1 == "")
+            {
+
+                return;
+            }
             viewlabel();
             var image = File.ReadAllBytes(filepath1);
             var options = new Dictionary<string, object>{
@@ -108,6 +122,11 @@ namespace pictureRecognition
 
         private void button3_Click(object sender, EventArgs e)
         {
+            if (filepath1 == null || filepath1 == "")
+            {
+
+                return;
+            }
             viewlabel();
             var image = File.ReadAllBytes(filepath1);
             var options = new Dictionary<string, object>{
@@ -131,6 +150,11 @@ namespace pictureRecognition
 
         private void button5_Click(object sender, EventArgs e)
         {
+            if (filepath1 == null || filepath1 == "")
+            {
+
+                return;
+            }
             viewlabel();
             var image = File.ReadAllBytes(filepath1);
             // 如果有可选参数
@@ -157,6 +181,11 @@ namespace pictureRecognition
 
         private void button6_Click(object sender, EventArgs e)
         {
+            if (filepath1 == null || filepath1 == "")
+            {
+
+                return;
+            }
             viewlabel();
             var image = File.ReadAllBytes(filepath1);
             var options = new Dictionary<string, object>{
